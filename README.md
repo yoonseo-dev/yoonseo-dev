@@ -1,4 +1,4 @@
-## Hi there 👋
+## 송윤서
 
 <!--
 **yoonseo-dev/yoonseo-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
