@@ -21,10 +21,8 @@
 <td align="center" width="140"><b>Backend</b></td>
 <td>
 <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" alt="Spring Boot">
-<img src="https://img.shields.io/badge/Spring%20Security-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white" alt="Spring Security">
 <img src="https://img.shields.io/badge/WebSocket-010101?style=for-the-badge" alt="WebSocket">
 <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white" alt="JWT">
-<img src="https://img.shields.io/badge/OpenPDF-B71C1C?style=for-the-badge" alt="OpenPDF">
 <img src="https://img.shields.io/badge/Node.js-5FA04E?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js">
 <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express">
 </td>
@@ -35,10 +33,8 @@
 <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter">
 <img src="https://img.shields.io/badge/React%2018-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React 18">
 <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" alt="Vite">
-<img src="https://img.shields.io/badge/TanStack%20Query-FF4154?style=for-the-badge&logo=reactquery&logoColor=white" alt="TanStack Query">
 <img src="https://img.shields.io/badge/Recharts-22B5BF?style=for-the-badge" alt="Recharts">
 <img src="https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=threedotjs&logoColor=white" alt="Three.js">
-<img src="https://img.shields.io/badge/pywebview-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="pywebview">
 </td>
 </tr>
 <tr>
@@ -49,18 +45,12 @@
 </td>
 </tr>
 <tr>
-<td align="center" width="140"><b>Test · Infra · Tools</b></td>
+<td align="center" width="140"><b>Infra · Tools</b></td>
 <td>
-<img src="https://img.shields.io/badge/JUnit%205-25A162?style=for-the-badge&logo=junit5&logoColor=white" alt="JUnit 5">
-<img src="https://img.shields.io/badge/Testcontainers-17A6B5?style=for-the-badge" alt="Testcontainers">
-<img src="https://img.shields.io/badge/ArchUnit-5C6BC0?style=for-the-badge" alt="ArchUnit">
-<img src="https://img.shields.io/badge/Flutter%20Test-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter Test">
-<img src="https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge" alt="Playwright">
 <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker">
 <img src="https://img.shields.io/badge/Docker%20Compose-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker Compose">
 <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" alt="GitHub Actions">
 <img src="https://img.shields.io/badge/Gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white" alt="Gradle">
-<img src="https://img.shields.io/badge/Jib-4285F4?style=for-the-badge" alt="Jib">
 </td>
 </tr>
 </table>
