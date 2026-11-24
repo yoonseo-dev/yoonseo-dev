@@ -1,0 +1,52 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 260" width="900" height="260" role="img" aria-label="yoonseo-dev">
+<defs>
+  <linearGradient id="sea" x1="0" y1="0" x2="0" y2="1">
+    <stop offset="0" stop-color="#101858"/><stop offset="1" stop-color="#1c2a8c"/>
+  </linearGradient>
+  <linearGradient id="wake" x1="0" y1="1" x2="0" y2="0">
+    <stop offset="0" stop-color="#8fb4ff" stop-opacity="0"/><stop offset="1" stop-color="#a9c6ff" stop-opacity=".9"/>
+  </linearGradient>
+  <clipPath id="frame"><rect width="900" height="260" rx="16"/></clipPath>
+</defs>
+<style>
+  .drift1{animation:drift 26s linear infinite}
+  .drift2{animation:drift 38s linear infinite}
+  @keyframes drift{from{transform:translateX(0)}to{transform:translateX(-900px)}}
+  .ship{animation:bob 3.2s ease-in-out infinite}
+  @keyframes bob{0%,100%{transform:translate(0,0)}50%{transform:translate(2px,-3px)}}
+  .wk{animation:wk 1.6s linear infinite}
+  @keyframes wk{to{stroke-dashoffset:-24}}
+  .title{font-family:Georgia, 'Nanum Myeongjo', 'Batang', 'Times New Roman', serif}
+  .sub{font-family:'Pretendard', 'Apple SD Gothic Neo', 'Malgun Gothic', 'Noto Sans KR', sans-serif}
+</style>
+<g clip-path="url(#frame)"><rect width="900" height="260" fill="url(#sea)"/>
+<ellipse cx="291" cy="39" rx="92" ry="16" fill="#0b1148" opacity=".55"/>
+<ellipse cx="482" cy="95" rx="45" ry="27" fill="#0b1148" opacity=".55"/>
+<ellipse cx="34" cy="113" rx="46" ry="16" fill="#0b1148" opacity=".55"/>
+<ellipse cx="382" cy="215" rx="50" ry="20" fill="#0b1148" opacity=".55"/>
+<ellipse cx="565" cy="246" rx="86" ry="24" fill="#0b1148" opacity=".55"/>
+<ellipse cx="879" cy="12" rx="109" ry="22" fill="#0b1148" opacity=".55"/>
+<ellipse cx="130" cy="31" rx="65" ry="35" fill="#0b1148" opacity=".55"/>
+<ellipse cx="163" cy="151" rx="91" ry="24" fill="#0b1148" opacity=".55"/>
+<ellipse cx="493" cy="16" rx="45" ry="19" fill="#0b1148" opacity=".55"/>
+<ellipse cx="612" cy="111" rx="65" ry="29" fill="#0b1148" opacity=".55"/>
+<ellipse cx="408" cy="78" rx="104" ry="32" fill="#0b1148" opacity=".55"/>
+<ellipse cx="220" cy="149" rx="82" ry="37" fill="#0b1148" opacity=".55"/>
+<ellipse cx="657" cy="75" rx="118" ry="17" fill="#0b1148" opacity=".55"/>
+<ellipse cx="376" cy="197" rx="52" ry="27" fill="#0b1148" opacity=".55"/>
+<g class="drift2"><path d="M102 18 L112 25 L113 34 L100 39 L87 42 L74 40 L68 31 L61 28 L40 27 L30 18 L45 10 L58 7 L64 2 L75 -0 L86 -2 L104 -6 L116 -0 L107 12Z" fill="#c9d3f2" transform="translate(6,6)"/><path d="M102 18 L112 25 L113 34 L100 39 L87 42 L74 40 L68 31 L61 28 L40 27 L30 18 L45 10 L58 7 L64 2 L75 -0 L86 -2 L104 -6 L116 -0 L107 12Z" fill="#f4f6fd"/><path d="M1010 18 L1025 28 L1017 37 L996 35 L985 34 L974 37 L963 35 L950 33 L935 28 L938 18 L957 13 L962 9 L960 -2 L972 -8 L987 -6 L999 -2 L1006 5 L1002 13Z" fill="#c9d3f2" transform="translate(6,6)"/><path d="M1010 18 L1025 28 L1017 37 L996 35 L985 34 L974 37 L963 35 L950 33 L935 28 L938 18 L957 13 L962 9 L960 -2 L972 -8 L987 -6 L999 -2 L1006 5 L1002 13Z" fill="#f4f6fd"/><path d="M375 248 L355 253 L358 262 L357 276 L339 280 L321 277 L306 273 L302 262 L303 254 L285 248 L270 235 L289 227 L312 229 L324 226 L337 224 L351 226 L371 227 L388 235Z" fill="#c9d3f2" transform="translate(6,6)"/><path d="M375 248 L355 253 L358 262 L357 276 L339 280 L321 277 L306 273 L302 262 L303 254 L285 248 L270 235 L289 227 L312 229 L324 226 L337 224 L351 226 L371 227 L388 235Z" fill="#f4f6fd"/><path d="M1264 248 L1261 255 L1271 268 L1262 281 L1238 276 L1224 267 L1211 268 L1197 265 L1187 257 L1174 248 L1176 236 L1202 234 L1217 234 L1223 223 L1240 214 L1256 221 L1266 230 L1272 239Z" fill="#c9d3f2" transform="translate(6,6)"/><path d="M1264 248 L1261 255 L1271 268 L1262 281 L1238 276 L1224 267 L1211 268 L1197 265 L1187 257 L1174 248 L1176 236 L1202 234 L1217 234 L1223 223 L1240 214 L1256 221 L1266 230 L1272 239Z" fill="#f4f6fd"/><path d="M650 14 L644 19 L642 25 L642 36 L628 41 L615 31 L609 25 L597 25 L587 21 L584 14 L582 6 L591 -0 L609 2 L616 2 L626 -8 L642 -9 L648 -0 L649 8Z" fill="#c9d3f2" transform="translate(6,6)"/><path d="M650 14 L644 19 L642 25 L642 36 L628 41 L615 31 L609 25 L597 25 L587 21 L584 14 L582 6 L591 -0 L609 2 L616 2 L626 -8 L642 -9 L648 -0 L649 8Z" fill="#f4f6fd"/><path d="M1553 14 L1555 22 L1549 28 L1540 35 L1526 33 L1516 26 L1507 27 L1488 30 L1479 23 L1487 14 L1493 8 L1498 3 L1507 0 L1514 -6 L1528 -13 L1540 -7 L1538 5 L1541 9Z" fill="#c9d3f2" transform="translate(6,6)"/><path d="M1553 14 L1555 22 L1549 28 L1540 35 L1526 33 L1516 26 L1507 27 L1488 30 L1479 23 L1487 14 L1493 8 L1498 3 L1507 0 L1514 -6 L1528 -13 L1540 -7 L1538 5 L1541 9Z" fill="#f4f6fd"/><path d="M880 240 L874 247 L871 255 L869 270 L851 276 L833 263 L826 255 L809 256 L793 250 L790 240 L789 229 L802 221 L824 223 L835 223 L849 210 L871 208 L878 221 L877 232Z" fill="#c9d3f2" transform="translate(6,6)"/><path d="M880 240 L874 247 L871 255 L869 270 L851 276 L833 263 L826 255 L809 256 L793 250 L790 240 L789 229 L802 221 L824 223 L835 223 L849 210 L871 208 L878 221 L877 232Z" fill="#f4f6fd"/><path d="M1786 240 L1790 251 L1779 260 L1766 267 L1748 266 L1735 257 L1723 258 L1696 262 L1683 252 L1696 240 L1705 232 L1710 225 L1721 220 L1732 213 L1751 204 L1768 211 L1765 227 L1767 234Z" fill="#c9d3f2" transform="translate(6,6)"/><path d="M1786 240 L1790 251 L1779 260 L1766 267 L1748 266 L1735 257 L1723 258 L1696 262 L1683 252 L1696 240 L1705 232 L1710 225 L1721 220 L1732 213 L1751 204 L1768 211 L1765 227 L1767 234Z" fill="#f4f6fd"/></g>
+<g class="drift1"><path d="M241 250 L250 256 L245 263 L230 261 L223 259 L216 263 L207 263 L200 260 L192 256 L193 250 L205 247 L208 244 L206 236 L214 231 L225 234 L231 238 L236 242 L237 246Z" fill="#c9d3f2" transform="translate(6,6)"/><path d="M241 250 L250 256 L245 263 L230 261 L223 259 L216 263 L207 263 L200 260 L192 256 L193 250 L205 247 L208 244 L206 236 L214 231 L225 234 L231 238 L236 242 L237 246Z" fill="#f4f6fd"/><path d="M1147 250 L1147 256 L1138 259 L1127 258 L1123 261 L1115 268 L1104 266 L1102 259 L1100 254 L1099 250 L1102 246 L1101 241 L1103 233 L1115 233 L1123 240 L1128 242 L1139 241 L1146 244Z" fill="#c9d3f2" transform="translate(6,6)"/><path d="M1147 250 L1147 256 L1138 259 L1127 258 L1123 261 L1115 268 L1104 266 L1102 259 L1100 254 L1099 250 L1102 246 L1101 241 L1103 233 L1115 233 L1123 240 L1128 242 L1139 241 L1146 244Z" fill="#f4f6fd"/><path d="M591 6 L596 14 L582 17 L569 15 L564 19 L555 23 L545 21 L536 18 L529 13 L537 6 L545 3 L541 -4 L542 -13 L554 -13 L564 -9 L572 -7 L577 -3 L580 2Z" fill="#c9d3f2" transform="translate(6,6)"/><path d="M591 6 L596 14 L582 17 L569 15 L564 19 L555 23 L545 21 L536 18 L529 13 L537 6 L545 3 L541 -4 L542 -13 L554 -13 L564 -9 L572 -7 L577 -3 L580 2Z" fill="#f4f6fd"/><path d="M1492 6 L1488 12 L1475 14 L1469 15 L1465 24 L1453 28 L1445 22 L1442 15 L1438 11 L1438 6 L1437 1 L1434 -7 L1442 -13 L1456 -8 L1463 -4 L1472 -7 L1484 -6 L1489 -0Z" fill="#c9d3f2" transform="translate(6,6)"/><path d="M1492 6 L1488 12 L1475 14 L1469 15 L1465 24 L1453 28 L1445 22 L1442 15 L1438 11 L1438 6 L1437 1 L1434 -7 L1442 -13 L1456 -8 L1463 -4 L1472 -7 L1484 -6 L1489 -0Z" fill="#f4f6fd"/><path d="M783 30 L795 38 L792 46 L775 45 L764 42 L756 45 L745 45 L736 42 L724 38 L723 30 L739 25 L746 23 L745 14 L753 7 L766 10 L775 14 L782 19 L781 25Z" fill="#c9d3f2" transform="translate(6,6)"/><path d="M783 30 L795 38 L792 46 L775 45 L764 42 L756 45 L745 45 L736 42 L724 38 L723 30 L739 25 L746 23 L745 14 L753 7 L766 10 L775 14 L782 19 L781 25Z" fill="#f4f6fd"/><path d="M1693 30 L1696 38 L1685 42 L1670 40 L1664 42 L1654 51 L1640 51 L1636 42 L1633 36 L1633 30 L1639 25 L1639 19 L1640 9 L1653 7 L1664 15 L1670 19 L1682 19 L1690 23Z" fill="#c9d3f2" transform="translate(6,6)"/><path d="M1693 30 L1696 38 L1685 42 L1670 40 L1664 42 L1654 51 L1640 51 L1636 42 L1633 36 L1633 30 L1639 25 L1639 19 L1640 9 L1653 7 L1664 15 L1670 19 L1682 19 L1690 23Z" fill="#f4f6fd"/></g>
+<g transform="translate(690 150) rotate(-62)">
+<path class="wk" d="M0 14 L0 110" stroke="url(#wake)" stroke-width="5" stroke-dasharray="14 10" fill="none" stroke-linecap="round"/>
+<path d="M-6 16 Q-14 60 -22 96 M6 16 Q14 60 22 96" stroke="#a9c6ff" stroke-opacity=".5" stroke-width="1.6" fill="none"/>
+<g class="ship"><path d="M0 -16 C7 -8 8 6 6 14 L-6 14 C-8 6 -7 -8 0 -16Z" fill="#e9dcc0" stroke="#3a2a20" stroke-width="1.6"/><rect x="-1.2" y="-8" width="2.4" height="16" fill="#6b4a2a"/><path d="M-9 -2 Q0 4 9 -2" stroke="#f6f1e6" stroke-width="3" fill="none"/></g>
+</g>
+<path d="M619 70 L617 82 L592 86 L577 88 L567 93 L553 94 L536 95 L514 93 L510 81 L529 70 L532 64 L523 51 L532 41 L551 40 L569 41 L581 48 L583 59 L595 62Z" fill="#c9d3f2" transform="translate(6,6)"/><path d="M619 70 L617 82 L592 86 L577 88 L567 93 L553 94 L536 95 L514 93 L510 81 L529 70 L532 64 L523 51 L532 41 L551 40 L569 41 L581 48 L583 59 L595 62Z" fill="#f4f6fd"/>
+<path d="M900 90 L885 100 L890 115 L888 140 L855 142 L830 123 L815 116 L791 115 L775 104 L762 90 L755 71 L784 62 L819 68 L831 61 L854 42 L884 44 L897 62 L905 76Z" fill="#c9d3f2" transform="translate(6,6)"/><path d="M900 90 L885 100 L890 115 L888 140 L855 142 L830 123 L815 116 L791 115 L775 104 L762 90 L755 71 L784 62 L819 68 L831 61 L854 42 L884 44 L897 62 L905 76Z" fill="#f4f6fd"/>
+<path d="M539 200 L550 207 L552 216 L539 220 L526 221 L514 219 L508 212 L502 209 L483 208 L473 200 L488 193 L501 191 L506 185 L515 182 L526 180 L541 178 L552 184 L545 195Z" fill="#c9d3f2" transform="translate(6,6)"/><path d="M539 200 L550 207 L552 216 L539 220 L526 221 L514 219 L508 212 L502 209 L483 208 L473 200 L488 193 L501 191 L506 185 L515 182 L526 180 L541 178 L552 184 L545 195Z" fill="#f4f6fd"/>
+<path d="M865 205 L850 216 L839 225 L822 228 L808 233 L788 247 L760 246 L758 226 L765 213 L751 205 L743 193 L752 181 L765 169 L788 166 L807 180 L817 187 L846 182 L873 189Z" fill="#c9d3f2" transform="translate(6,6)"/><path d="M865 205 L850 216 L839 225 L822 228 L808 233 L788 247 L760 246 L758 226 L765 213 L751 205 L743 193 L752 181 L765 169 L788 166 L807 180 L817 187 L846 182 L873 189Z" fill="#f4f6fd"/>
+<text class="title" x="56" y="122" font-size="54" fill="#f4f6fd" letter-spacing="1">yoonseo-dev</text>
+<g transform="translate(58 145)" fill="none" stroke="#c9d3f2" stroke-width="1.8" stroke-linejoin="round"><rect width="20" height="14" rx="2"/><path d="M1 1.5 L10 8.5 L19 1.5"/></g>
+<text class="sub" x="86" y="158" font-size="18" fill="#c9d3f2">yoonseo0127@gmail.com</text>
+<text class="sub" x="58" y="190" font-size="15" fill="#8fa0d8">다음 섬을 향해 항해하는 중</text>
+</g></svg>
